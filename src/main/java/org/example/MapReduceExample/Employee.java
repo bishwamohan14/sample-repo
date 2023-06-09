@@ -5,7 +5,7 @@ public class Employee {
     private String name;
     private String grade;
     private double salary;
-
+    //private double bonus;
     public Employee() {
     }
 
